@@ -1,1 +1,0 @@
-# Aplikacje-Desktopowe-i-Mobilne
