@@ -1,0 +1,16 @@
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.exe
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.deps.json
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.json
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.dev.json
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.dll
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\ref\FirstProject.dll
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\bin\Debug\net5.0\FirstProject.pdb
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.AssemblyReference.cache
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfoInputs.cache
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfo.cs
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.dll
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\ref\FirstProject.dll
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.pdb
+C:\Gabriel A. 2B\Aplikacje-Desktopowe-i-Mobilne\klasa-2B-2022-2023-aplikacje\Aplikacje desktopowe i mobilne\FirstProject\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache

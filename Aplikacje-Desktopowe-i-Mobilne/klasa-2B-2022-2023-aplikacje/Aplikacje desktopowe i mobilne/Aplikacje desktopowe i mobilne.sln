@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProject", "FirstProject\FirstProject.csproj", "{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassingParametersToMethod", "PassingParametersToMethod\PassingParametersToMethod.csproj", "{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Konsola", "1. Konsola", "{D1519BA0-A70E-47AC-A2A1-DAF0578D7500}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Podstawy", "01. Podstawy", "{E57095D7-8685-4A48-9761-3B5E787F18B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Parametry do metody", "02. Parametry do metody", "{5698E2C4-B424-4764-BBFF-16DCFCD21CB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Dziedziczenie i poliformizm", "03. Dziedziczenie i poliformizm", "{3E37F031-09F2-4FBD-8400-9028DB5ACA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismApp", "PolymorphismApp\PolymorphismApp.csproj", "{5C5D0195-B3F5-4D26-A868-3452149B211E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5D0195-B3F5-4D26-A868-3452149B211E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5D0195-B3F5-4D26-A868-3452149B211E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5D0195-B3F5-4D26-A868-3452149B211E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5D0195-B3F5-4D26-A868-3452149B211E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4} = {E57095D7-8685-4A48-9761-3B5E787F18B7}
+		{A97CB8A0-19E8-42F0-956D-BFFE7E9B2FFF} = {5698E2C4-B424-4764-BBFF-16DCFCD21CB3}
+		{E57095D7-8685-4A48-9761-3B5E787F18B7} = {D1519BA0-A70E-47AC-A2A1-DAF0578D7500}
+		{5698E2C4-B424-4764-BBFF-16DCFCD21CB3} = {D1519BA0-A70E-47AC-A2A1-DAF0578D7500}
+		{3E37F031-09F2-4FBD-8400-9028DB5ACA92} = {D1519BA0-A70E-47AC-A2A1-DAF0578D7500}
+		{5C5D0195-B3F5-4D26-A868-3452149B211E} = {3E37F031-09F2-4FBD-8400-9028DB5ACA92}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2DA32F-0FC6-4252-9FC0-CD664838E829}
+	EndGlobalSection
+EndGlobal
