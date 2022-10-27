@@ -12,11 +12,13 @@ namespace PolymorphismApp
         {
             protected string name;
             protected byte age;
+            protected type
 
             public Animal()
             {
                 name = "Lord Belzedup";
                 age = 2;
+                type = "Zwierze";
             }
 
             public Animal(string name, byte age)
@@ -30,12 +32,13 @@ namespace PolymorphismApp
             {
                 name = animalToCopy.name;
                 age = animalToCopy.age;
+                
             }
 
             public void ShowInfo()
             {
                 Console.WriteLine("*****************************");
-                Console.WriteLine("Zwierze o imieniu" + name + "ma " + age + " lat");
+                Console.WriteLine(type + " o imieniu" + name + "ma " + age + " lat");
                 Console.WriteLine("*****************************");
             }
 

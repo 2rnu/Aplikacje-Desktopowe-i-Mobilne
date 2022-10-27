@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PolymorphismApp
 {
-    class Cat
+    class Cat : Animal
     {
         private string name;
         private byte age;
@@ -19,17 +19,13 @@ namespace PolymorphismApp
             age = 2;
         }
 
-        public Cat(string name, byte age)
+        public Cat(string name, byte age) : base(name, age)
         {
-            this.name = name;
-            this.age = age;
-            //this. daje kierunek do parametru TEGO (chyba pierwszego)
         }
 
-        public Cat(Cat catToCopy)
+        public Cat(Cat catToCopy) : base(catToCopy)
         {
-            name = catToCopy.name;
-            age = catToCopy.age;
+           
         }
 
         public void ShowInfo()

@@ -4,7 +4,6 @@ namespace PolymorphismApp
 
 //Zasada DYR - znaczy "Don't Repeat Yourself" - "Nie powtarzaj się"
 
-{
     class Program
     {
         static void Main(string[] args)
@@ -27,10 +26,15 @@ namespace PolymorphismApp
             firstCat.Meow();
             firstCat.ClimbOnTree();
 
-
-
-
-
         }
+        
+        static void ShowInfoForDog(Dog dog)
+        {
+            dog.ShowInfo();
+        }
+            static void ShowInfoForCat(Cat cat)
+        {
+            cat.ShowInfo();
+        }
+
     }
-}
