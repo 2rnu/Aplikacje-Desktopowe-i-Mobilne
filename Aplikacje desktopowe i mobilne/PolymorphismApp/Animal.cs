@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// w c# można dziedziczyć tylko jedną klase, dlatego jest //: base(), a nie "Kolejna_klasa" ipt.:
+// w c# można dziedziczyć tylko jedną klase, dlatego jest //: base(), a nie "Kolejna_klasa" ipt.:`
 
 namespace PolymorphismApp
 {
