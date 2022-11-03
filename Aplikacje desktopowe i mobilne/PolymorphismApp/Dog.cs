@@ -53,6 +53,10 @@ namespace PolymorphismApp
             Console.WriteLine("Przedstawienie psa: ");
             Console.WriteLine(type + " o imieniu" + name + "ma " + age + " lat");
             Console.WriteLine("=============================");
+
+            //virtual lub everride, bez nich jest tkz. krótkie wiązanie
+            //virtual - nie zostanie wywołona, tylko rzeczywiście będzie szukana metoda, którą szukamy, czyli najpierw przejdzie do animal(virtual), a potem dog(override), dodam że w ShowInfo(), proszono o Dog.
+            //polimorphysm - "wielopostaciowy"   ||    Jest bardzo często wykorzystywany, UCZ SIĘ!
         }
     }
 }
