@@ -11,7 +11,7 @@ namespace MoveOnBoardGame
         private int topCorner = 5;
         private int leftCorner = 5;
         private int height = 20;
-        private int width = 30;
+        private int width = 50;
         private ConsoleColor backGroundColor = ConsoleColor.DarkRed;
         private ConsoleColor foregroundColor = ConsoleColor.Yellow;
         private char borderChar = 'X';
@@ -21,7 +21,7 @@ namespace MoveOnBoardGame
 
         public Board()
         {
-            
+            CompleteAvailableFields();
         }
 
         public void Draw()
@@ -37,7 +37,7 @@ namespace MoveOnBoardGame
             {
                 Console.Write(borderChar);
             }
-            
+
             //krawędź boczna
             for (int i = 1; i < height - 1; i++)
             {
@@ -45,12 +45,12 @@ namespace MoveOnBoardGame
                 Console.SetCursorPosition(topCorner, i + leftCorner);
                 Console.Write(borderChar);
 
-                Console.SetCursorPosition(width-1 + topCorner, i + leftCorner);
+                Console.SetCursorPosition(width - 1 + topCorner, i + leftCorner);
                 Console.Write(borderChar);
             }
 
-            Console.SetCursorPosition(topCorner, height-1 + leftCorner);
-           
+            Console.SetCursorPosition(topCorner, height - 1 + leftCorner);
+
             for (int i = 0; i < width; i++)
             {
                 Console.Write(borderChar);
@@ -58,8 +58,24 @@ namespace MoveOnBoardGame
             Console.ResetColor();
         }
 
-            public bool CollisionDetect(int x, int y)
+            public bool CollisionDetect(int x, int y) // CollisonTime ma być ale nie działa
             {
+            /*for (int i = 0; i < availableFieldsOnTheBoard.Count; i++)
+            {
+                if(availableFieldsOnTheBoard[i].X == x && availableFieldsOnTheBoard[i].Y == y)
+                    return false;
+            }*/
+
+            foreach (AvailableField field in availableFieldsOnTheBoard) //przejdzie całą kolekcje (zaczyna od 0 do końca)  || nie można jej użyć, gdy chce się jej użyć od końca lub, gdy chcemy 
+            {
+                if (field.X == x && field.Y == y)
+                    return false;
+            }
+
+            //kolizja ze ścianą planszy
+            return true;
+
+            /*
             if (y == leftCorner) //górna ściana || topCorner = x   || leftCorner = y
                 return true;
 
@@ -72,7 +88,7 @@ namespace MoveOnBoardGame
             if (x == width-1 + topCorner) // prawa ściana
                 return true;
             
-                return false;
+                return false;*/
             }
             private void CompleteAvailableFields()
             {

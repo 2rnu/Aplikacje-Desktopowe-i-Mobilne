@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MoveOnBoardGame.Enums;
+using System;
 using System.Threading;
 
 namespace MoveOnBoardGame
@@ -29,7 +30,7 @@ namespace MoveOnBoardGame
 
                  player.Move(direction);
 
-                 if(board.CollisionDetect(player.CurrX, player.CurrY))
+                if (board.CollisionDetect(player.CurrX, player.CurrY) == CollisionType.BorderCollision)
                  {
                      break; // wychodzimy z nabliższej pętli/switch'a
 
