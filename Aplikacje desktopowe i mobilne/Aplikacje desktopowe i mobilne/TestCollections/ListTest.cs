@@ -47,8 +47,14 @@ namespace TestCollections
 
             Console.WriteLine("Max w int'ach: " + MaxFromInts(listOfInts));
             Console.WriteLine("Max w int'ach: " + MaxFromAllTypes<int>(listOfInts, CheckTwoInts));
+            Console.WriteLine("Max w int'ach: " + MaxFromAllTypes<int>(listOfInts, (int a, int b) =>
+                                                                                   {
+                                                                                        return a> b;
+                                                                                   }));
+            
             Console.WriteLine("Max w double'ach: " + MaxFromDoubles(listOfDoubles));
             Console.WriteLine("Max w double'ach: " + MaxFromAllTypes<double>(listOfDoubles, CheckTwoDoubles));
+            Console.WriteLine("Max w double'ach: " + MaxFromAllTypes<double>(listOfDoubles, (a, b) => a > b));
         }
 
         private bool CheckTwoInts(int a, int b)
