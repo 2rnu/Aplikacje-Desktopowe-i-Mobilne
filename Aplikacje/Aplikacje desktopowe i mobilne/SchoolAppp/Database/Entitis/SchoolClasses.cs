@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SchoolApp.Database.Entitis
 {
-    class SchoolClasses
+    class SchoolClass
     {
-        public int id { get; set; }
-        public string name { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

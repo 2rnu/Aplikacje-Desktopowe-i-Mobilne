@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gabriel A. 2B\\klasa-2B-2022-2023-aplikacje-main\\klasa-2B-2022-2023-aplikacje-main\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\MoveOnBoardGame.csproj",
+      "projectUniqueName": "C:\\Gabriel A. 2B\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\MoveOnBoardGame.csproj",
       "projectName": "MoveOnBoardGame",
-      "projectPath": "C:\\Gabriel A. 2B\\klasa-2B-2022-2023-aplikacje-main\\klasa-2B-2022-2023-aplikacje-main\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\MoveOnBoardGame.csproj",
+      "projectPath": "C:\\Gabriel A. 2B\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\MoveOnBoardGame.csproj",
       "packagesPath": "C:\\Users\\Uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\Gabriel A. 2B\\klasa-2B-2022-2023-aplikacje-main\\klasa-2B-2022-2023-aplikacje-main\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\obj\\",
+      "outputPath": "C:\\Gabriel A. 2B\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje\\Aplikacje desktopowe i mobilne\\MoveOnBoardGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
