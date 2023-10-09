@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SceonQVzSujCjaFRVkZANmJQHBuam5DiajZFhwJqtod0978CAPbSkG5dBrH7HI24mQA53Gl99AE0TNj5yJhzYQ==",
+  "dgSpecHash": "dfIxNoPutEp/CilYul6+b52LkWfxSgJRPPiOHOAdx9N0a4c1mCJitgxm+tqN7voqs/RViJkurajFf+cCVCJF7g==",
   "success": true,
-  "projectFilePath": "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\SchoolApp\\SchoolApp.csproj",
+  "projectFilePath": "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\SchoolApp\\SchoolApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uczeń - sala 213\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Uczeń - sala 213\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj": {
+    "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\Uczeń - sala 213\\.nuget\\packages\\",
-        "outputPath": "C:\\Gabriel A\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\obj\\",
+        "outputPath": "C:\\Gabriel A\\Aplikacje-Desktopowe-i-Mobilne\\Aplikacje 2023-2024\\Aplikacje desktopowe i mobilne\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
