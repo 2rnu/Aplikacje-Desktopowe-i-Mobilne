@@ -1,0 +1,16 @@
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Uczeń - sala 213\Documents\klasa-3B-2023-2024-aplikacje\Aplikacje desktopowe i mobilne\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
