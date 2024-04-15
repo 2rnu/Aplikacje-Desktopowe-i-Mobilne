@@ -1,0 +1,16 @@
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\bin\Debug\net6.0-windows\egz.exe
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\bin\Debug\net6.0-windows\egz.deps.json
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\bin\Debug\net6.0-windows\egz.runtimeconfig.json
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\bin\Debug\net6.0-windows\egz.dll
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\bin\Debug\net6.0-windows\egz.pdb
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.Form1.resources
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.csproj.GenerateResource.cache
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.AssemblyInfoInputs.cache
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.AssemblyInfo.cs
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.csproj.CoreCompileInputs.cache
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.dll
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\refint\egz.dll
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.pdb
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\egz.genruntimeconfig.cache
+C:\Bartosz D 2E\klasa-2E-2023-2024-programowanie\Programowanie-1E\egz\obj\Debug\net6.0-windows\ref\egz.dll
