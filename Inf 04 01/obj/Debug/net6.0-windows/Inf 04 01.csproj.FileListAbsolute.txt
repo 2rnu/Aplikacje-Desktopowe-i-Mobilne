@@ -15,3 +15,20 @@ C:\Users\Uczeń - sala 213\Downloads\Inf 04 01\obj\Debug\net6.0-windows\refint\I
 C:\Users\Uczeń - sala 213\Downloads\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.pdb
 C:\Users\Uczeń - sala 213\Downloads\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.genruntimeconfig.cache
 C:\Users\Uczeń - sala 213\Downloads\Inf 04 01\obj\Debug\net6.0-windows\ref\Inf 04 01.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\bin\Debug\net6.0-windows\Inf 04 01.exe
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\bin\Debug\net6.0-windows\Inf 04 01.deps.json
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\bin\Debug\net6.0-windows\Inf 04 01.runtimeconfig.json
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\bin\Debug\net6.0-windows\Inf 04 01.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\bin\Debug\net6.0-windows\Inf 04 01.pdb
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf_04_01.Form1.resources
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf_04_01.Properties.Resources.resources
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.csproj.GenerateResource.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.AssemblyInfoInputs.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.AssemblyInfo.cs
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.csproj.CoreCompileInputs.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\refint\Inf 04 01.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.pdb
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\Inf 04 01.genruntimeconfig.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\Inf 04 01\obj\Debug\net6.0-windows\ref\Inf 04 01.dll

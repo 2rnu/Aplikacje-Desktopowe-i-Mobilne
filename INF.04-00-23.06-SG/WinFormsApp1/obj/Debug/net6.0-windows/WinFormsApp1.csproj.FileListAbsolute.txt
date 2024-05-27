@@ -1,0 +1,17 @@
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Gabriel A\Aplikacje-Desktopowe-i-Mobilne\INF.04-00-23.06-SG\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources

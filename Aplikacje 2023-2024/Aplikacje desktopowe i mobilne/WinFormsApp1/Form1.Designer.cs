@@ -70,6 +70,7 @@
             checkBoxMath.TabIndex = 1;
             checkBoxMath.Text = "Matematyka";
             checkBoxMath.UseVisualStyleBackColor = true;
+            checkBoxMath.CheckedChanged += checkBoxMath_CheckedChanged;
             // 
             // checkBoxPolish
             // 
@@ -226,7 +227,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(842, 575);
+            ClientSize = new Size(805, 575);
             Controls.Add(comboBox1);
             Controls.Add(label6);
             Controls.Add(labelName);

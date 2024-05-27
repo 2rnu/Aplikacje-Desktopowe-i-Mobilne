@@ -72,5 +72,10 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void checkBoxMath_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
